@@ -1,0 +1,1 @@
+C:\Users\mauro\OneDrive\Área de Trabalho\Estudo C#\JogoAdicao\JogoAdicao.csproj;x64
